@@ -1,0 +1,11 @@
+# Windows and OneDrive system files
+Thumbs.db
+desktop.ini
+*.lnk
+
+# macOS
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
