@@ -20,6 +20,11 @@ desktop.ini
 *.mkv
 *.webm
 
+# Project documents and extra copies (not part of the site)
+*.docx
+StuWell.html
+stuwell-qr.png
+
 # Editor folders
 .vscode/
 .idea/
