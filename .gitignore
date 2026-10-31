@@ -13,6 +13,13 @@ desktop.ini
 *.m4a
 *.wav
 
+# Videos (too large for the site, shared separately)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
 # Editor folders
 .vscode/
 .idea/
