@@ -6,6 +6,13 @@ desktop.ini
 # macOS
 .DS_Store
 
+# Audio recordings (private, never publish)
+*.ogg
+*.opus
+*.mp3
+*.m4a
+*.wav
+
 # Editor folders
 .vscode/
 .idea/
